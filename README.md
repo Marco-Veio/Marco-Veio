@@ -24,8 +24,6 @@
 
 ---
 
-<br/>
-
 # Skills
 ## Linguagens, Frameworks e outros
 <p align="left">
