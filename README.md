@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<br/>
-
 ## Contato
 [![GitHub](https://img.shields.io/github/followers/Marco-Veio?label=follow&style=social)](https://github.com/Marco-Veio)
 &nbsp;&nbsp;
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=joao.alceu.rigon@gmail.com&tf=cm)
 <!-- [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:marco_a_thomaz@hotmail.com) -->
+
+<br />
 
 ---
 
@@ -68,8 +68,6 @@
 <img width="38" height="38" src="https://lh3.googleusercontent.com/proxy/eloBpHCZCHkUl0aFC0fDZRudrW6f3zhZdCBqLYcVTEFXZsnpJXMXpFGznvLJDo1Au3IH4-djoEwgSrIYNOGW4KILaGasZwnQmHCY" alt="QuartusII"/>
 </p>
 
-<br/>
-
 ## Banco de dados
 <p align="left">
 <img width="38" height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"/>
@@ -78,8 +76,6 @@
 <img width="38" height="38" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sqlite_icon_130153.png" alt="SQlite"/>
 </p>
 
-<br/>
-
 ## DevOps
 <p align="left">
 <img width="38" height="38" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="Git"/>
@@ -87,8 +83,6 @@
 <img width="38" height="38" src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="GitHub"/>
 <img width="38" height="38" src="https://cdn.iconscout.com/icon/free/png-256/bitbucket-3521305-2944724.png" alt="Bitbucket"/>
 </p>
-
-<br/>
 
 ## Placas de prototipagem
 <p align="left">
