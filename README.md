@@ -3,9 +3,6 @@
 - 🎓 &nbsp; Formado em **Engenharia Elétrica** na <a href="https://www.up.edu.br/">Universidade Positivo</a>
 - 💼 &nbsp; Trabalhando como **Desenvolvedor Full-Stack** na <a href="https://alexandria.solar/">Alexandria</a>
 
-<br/>
-<br/>
-
 ## GitHub status
 ![Marco-Veio's stats](https://github-readme-stats.vercel.app/api?username=marco-veio&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true&include_all_commits=true&count_private=true)
 ![Marco-Veio's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-veio&hide_border=true&layout=compact&langs_count=16&theme=tokyonight)
