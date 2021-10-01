@@ -14,7 +14,7 @@
 ## Contato
 [![GitHub](https://img.shields.io/github/followers/Marco-Veio?label=follow&style=social)](https://github.com/Marco-Veio)
 &nbsp;&nbsp;
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=joao.alceu.rigon@gmail.com&tf=cm)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=marco_a_thomaz@hotmail.com&tf=cm)
 <!-- [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:marco_a_thomaz@hotmail.com) -->
 
 <br />
@@ -48,8 +48,6 @@
 <img width="38" height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
 <img width="38" height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" alt="React Native"/>
 </p>
-
-<br/>
 
 ## Ferramentas
 <p align="left">
