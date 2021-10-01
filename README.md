@@ -14,6 +14,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<br/>
+
 ## Contato
 [![GitHub](https://img.shields.io/github/followers/Marco-Veio?label=follow&style=social)](https://github.com/Marco-Veio)
 &nbsp;&nbsp;
@@ -26,6 +28,7 @@
 
 # Skills
 ## Linguagens, Frameworks e outros
+<p align="left">
 <img width="38" height="38" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
 <img width="38" height="38" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
 <img width="38" height="38"src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
@@ -49,11 +52,12 @@
 <img width="38" height="38" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/qt_94938.png" alt="Qt"/>
 <img width="38" height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
 <img width="38" height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" alt="React Native"/>
+</p>
 
-<br/>
 <br/>
 
 ## Ferramentas
+<p align="left">
 <img width="38" height="38" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
 <img width="38" height="38" src="https://www.codeblocks.org/images/logo160.png" alt="Code::Blocks">
 <img width="38" height="38" src="https://cdn.icon-icons.com/icons2/159/PNG/256/qtproject_qtcreator_qt_22392.png" alt="QtCreator"/>
@@ -67,31 +71,35 @@
 <img width="38" height="38" src="https://ni.scene7.com/is/image/ni/Multisim_BG?$ni-icon-pm$" alt="Multisim">
 <img width="38" height="38" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus">
 <img width="38" height="38" src="https://lh3.googleusercontent.com/proxy/eloBpHCZCHkUl0aFC0fDZRudrW6f3zhZdCBqLYcVTEFXZsnpJXMXpFGznvLJDo1Au3IH4-djoEwgSrIYNOGW4KILaGasZwnQmHCY" alt="QuartusII"/>
+</p>
 
-<br/>
 <br/>
 
 ## Banco de dados
+<p align="left">
 <img width="38" height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"/>
 <img width="38" height="38" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="MongoDB"/>
 <img width="38" height="38" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_logo_icon_146416.png" alt="MySQL"/>
 <img width="38" height="38" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sqlite_icon_130153.png" alt="SQlite"/>
+</p>
 
-<br/>
 <br/>
 
 ## DevOps
+<p align="left">
 <img width="38" height="38" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="Git"/>
 <img width="38" height="38" src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3521296-2944715.png" alt="Azure DevOps" />
 <img width="38" height="38" src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="GitHub"/>
 <img width="38" height="38" src="https://cdn.iconscout.com/icon/free/png-256/bitbucket-3521305-2944724.png" alt="Bitbucket"/>
+</p>
 
-<br/>
 <br/>
 
 ## Placas de prototipagem
+<p align="left">
 <img width="38" height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="Arduino"/>
 <img width="38" height="38"src="https://cdn.icon-icons.com/icons2/2108/PNG/512/espressif_icon_130944.png" alt="ESP">
 <img width="38" height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" alt="Raspberry"/>
 <img width="38" height="38" src="https://cdn.icon-icons.com/icons2/41/PNG/128/texasinstrumentscpu_hardware_7156.png" alt="Tiva"/>
 <img width="80" height="38" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Altera_logo.svg/1280px-Altera_logo.svg.png" alt="Tiva"/>
+</p>
