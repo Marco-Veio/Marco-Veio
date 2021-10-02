@@ -55,6 +55,8 @@
   <img width="38" height="38" src="./public/images/qt.png" alt="Qt" title="Qt" />
   <img width="38" height="38" src="./public/images/react.png" alt="React" title="React" />
   <img width="38" height="38" src="./public/images/react-native.png" alt="React Native" title="React Native" />
+  <img width="60" height="38" src="./public/images/mongoose.png" alt="Mongoose" title="Mongoose" />
+  <img width="38" height="38" src="./public/images/sequelize.png" alt="Sequelize" title="Sequelize" />
 </p>
 
 ## Tools
@@ -70,7 +72,7 @@
   <img width="38" height="38" src="./public/images/tinkercad.png" alt="Tinkercad" title="Tinkercad" />
   <img width="38" height="38" src="./public/images/easyeda.png" alt="EasyEDA" title="EasyEDA" />
   <img width="38" height="38" src="./public/images/multisim.png" alt="Multisim" title="Multisim" />
-  <img width="38" height="38" src="./public/images/proteus.png" alt="Proteus" title="Proteus" />
+  <img width="46" height="38" src="./public/images/proteus.png" alt="Proteus" title="Proteus" />
   <img width="38" height="38" src="./public/images/quartusII.png" alt="QuartusII" title="QuartusII" />
 </p>
 
