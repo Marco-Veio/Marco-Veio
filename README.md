@@ -9,6 +9,13 @@
 
 ## WakaTime status
 <!--START_SECTION:waka-->
+```text
+JavaScript   10 hrs 39 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.29 % 
+Python       9 hrs 33 mins   ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+TypeScript   6 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Markdown     5 hrs 40 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Rust         3 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+```
 <!--END_SECTION:waka-->
 
 ## Contact
