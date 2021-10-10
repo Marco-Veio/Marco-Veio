@@ -10,11 +10,11 @@
 ## WakaTime status
 <!--START_SECTION:waka-->
 ```text
-JavaScript   15 hrs 59 mins  ██████████▓░░░░░░░░░░░░░░   43.21 % 
-Python       9 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.21 % 
-TypeScript   5 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Markdown     3 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-JSON         1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+JavaScript   17 hrs 53 mins  ██████████▓░░░░░░░░░░░░░░   43.31 % 
+Python       12 hrs 41 mins  ███████▓░░░░░░░░░░░░░░░░░   30.74 % 
+TypeScript   4 hrs 43 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Markdown     3 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+JSON         1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 ```
 <!--END_SECTION:waka-->
 
