@@ -8,15 +8,7 @@
 ![Marco-Veio's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-veio&hide_border=true&layout=compact&langs_count=16&theme=tokyonight)
 
 ## WakaTime status
-<!--START_SECTION:waka-->
-```text
-JavaScript   11 hrs 22 mins  ████████░░░░░░░░░░░░░░░░░   31.92 % 
-Markdown     8 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.14 % 
-TypeScript   6 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Rust         3 hrs 40 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Python       2 hrs 56 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-```
-<!--END_SECTION:waka-->
+![Marco-Veio's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=marcoveio&hide_border=true&layout=compact&langs_count=16&theme=tokyonight)
 
 ## Contact
 <a href="https://github.com/Marco-Veio" title="GitHub">
