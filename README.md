@@ -8,7 +8,8 @@
 ![Marco-Veio's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-veio&hide_border=true&layout=compact&langs_count=16&theme=tokyonight)
 
 ## WakaTime status
-![Marco-Veio's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=marcoveio&hide_border=true&layout=compact&langs_count=16&theme=tokyonight)
+![Marco-Veio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcoveio&hide_border=true&layout=compact&theme=tokyonight)
+
 
 ## Contact
 <a href="https://github.com/Marco-Veio" title="GitHub">
