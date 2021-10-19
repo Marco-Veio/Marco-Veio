@@ -10,7 +10,6 @@
 ## WakaTime status
 ![Marco-Veio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcoveio&hide_border=true&layout=compact&theme=tokyonight)
 
-
 ## Contact
 <a href="https://github.com/Marco-Veio" title="GitHub">
   <img height=25 src="https://img.shields.io/github/followers/Marco-Veio?label=follow&style=social" />
