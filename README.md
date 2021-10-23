@@ -117,5 +117,5 @@
 <p>
   <img height=300 alt="GIF" src="public/gif/profile.gif"/>
   
-  Check out my [repositories](http://https://github.com/Marco-Veio?tab=repositories) first!
+  Check out my [repositories](https://github.com/Marco-Veio?tab=repositories) first!
 </p>
