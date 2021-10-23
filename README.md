@@ -1,11 +1,11 @@
 # About me
 ## Work and academic life
-- 🎓 &nbsp; Graduated in **Electrical Engineering** from <a href="https://www.up.edu.br/">Universidade Positivo</a>
-- 💼 &nbsp; Working as **Full-Stack Developer** at <a href="https://alexandria.solar/">Alexandria</a>
+- 🎓 &nbsp; Graduated in **Electrical Engineering** from [Universidade Positivo](https://www.up.edu.br/)
+- 💼 &nbsp; Working as **Full-Stack Developer** at [Alexandria]("https://alexandria.solar/")
 
 ## GitHub status
-![Marco-Veio's stats](https://github-readme-stats.vercel.app/api?username=marco-veio&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true&include_all_commits=true&count_private=true)
-![Marco-Veio's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-veio&hide_border=true&layout=compact&langs_count=16&theme=tokyonight)
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=marco-veio&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true&include_all_commits=true&count_private=true" alt="Marco-Veio's stats" />
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-veio&hide_border=true&layout=compact&langs_count=16&theme=tokyonight" alt="Marco-Veio's languages" />
 
 ## WakaTime status
 ![Marco-Veio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcoveio&hide_border=true&layout=compact&theme=tokyonight)
@@ -30,7 +30,7 @@
 
 # Skills
 ## Languages, Frameworks and others
-<p align="left">
+<p>
   <img width="38" height="38" src="./public/images/c.png" alt="C" title="C" />
   <img width="38" height="38" src="./public/images/c++.png" alt="C++" title="C++" />
   <img width="38" height="38"src="./public/images/csharp.png" alt="C#" title="C#" />
@@ -59,13 +59,14 @@
 </p>
 
 ## Tools
-<p align="left">
+<p>
   <img width="38" height="38" src="./public/images/vscode.png" alt="Visual Studio Code" title="Visual Studio Code" />
   <img width="38" height="38" src="./public/images/codeblocks.png" alt="Code::Blocks" title="Code::Blocks" />
   <img width="38" height="38" src="./public/images/qtcreator.png" alt="QtCreator" title="QtCreator" />
   <img width="38" height="38" src="./public/images/qtdesigner.png" alt="QtDesigner" title="QtDesigner" />
   <img width="38" height="38" src="./public/images/insomnia.png" alt="Insomnia" title="Insomnia" />
   <img width="38" height="38" src="./public/images/postman.png" alt="Postman" title="Postman" />
+  <img width="38" height="38" src="./public/images/notion.svg" alt="Notion" title="Notion" />
   <img width="38" height="38" src="./public/images/autocad.png" alt="AutoCAD" title="AutoCAD" />
   <img width="38" height="38" src="./public/images/sketchup.png" alt="SketchUp" title="SketchUp" />
   <img width="38" height="38" src="./public/images/tinkercad.png" alt="Tinkercad" title="Tinkercad" />
@@ -76,7 +77,7 @@
 </p>
 
 ## Databases
-<p align="left">
+<p>
   <img width="38" height="38" src="./public/images/firebase.png" alt="Firebase" title="Firebase" />
   <img width="38" height="38" src="./public/images/mongodb.png" alt="MongoDB" title="MongoDB" />
   <img width="38" height="38" src="./public/images/mysql.png" alt="MySQL" title="MySQL" />
@@ -84,7 +85,7 @@
 </p>
 
 ## DevOps
-<p align="left">
+<p>
   <img width="38" height="38" src="./public/images/git.png" alt="Git" title="Git" />
   <img width="38" height="38" src="./public/images/azuredevops.png" alt="Azure DevOps" title="Azure DevOps" />
   <img width="38" height="38" src="./public/images/github.png" alt="GitHub" title="GitHub"/>
@@ -92,7 +93,7 @@
 </p>
 
 ## Prototype boards
-<p align="left">
+<p>
   <img width="38" height="38" src="./public/images/arduino.png" alt="Arduino" title="Arduino" />
   <img width="38" height="38"src="./public/images/esp.png" alt="ESPs" title="ESPs" />
   <img width="38" height="38" src="./public/images/raspberry.png" alt="Raspberry" title="Raspberry" />
