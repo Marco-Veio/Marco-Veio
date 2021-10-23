@@ -1,11 +1,11 @@
 # About me
 ## Work and academic life
-- 🎓 &nbsp; Graduated in **Electrical Engineering** from <a href="https://www.up.edu.br/">Universidade Positivo</a>
-- 💼 &nbsp; Working as **Full-Stack Developer** at <a href="https://alexandria.solar/">Alexandria</a>
+- 🎓 &nbsp; Graduated in **Electrical Engineering** from [Universidade Positivo](https://www.up.edu.br/)
+- 💼 &nbsp; Working as **Full-Stack Developer** at [Alexandria]("https://alexandria.solar/")
 
 ## GitHub status
-![Marco-Veio's stats](https://github-readme-stats.vercel.app/api?username=marco-veio&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true&include_all_commits=true&count_private=true)
-![Marco-Veio's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-veio&hide_border=true&layout=compact&langs_count=16&theme=tokyonight)
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=marco-veio&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true&include_all_commits=true&count_private=true" alt="Marco-Veio's stats" />
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-veio&hide_border=true&layout=compact&langs_count=16&theme=tokyonight" alt="Marco-Veio's languages" />
 
 ## WakaTime status
 ![Marco-Veio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcoveio&hide_border=true&layout=compact&theme=tokyonight)
@@ -30,72 +30,64 @@
 
 # Skills
 ## Languages, Frameworks and others
-<p align="left">
-  <img width="38" height="38" src="./public/images/c.png" alt="C" title="C" />
-  <img width="38" height="38" src="./public/images/c++.png" alt="C++" title="C++" />
-  <img width="38" height="38"src="./public/images/csharp.png" alt="C#" title="C#" />
-  <img width="38" height="38" src="./public/images/freemat.png" alt="Freemat" title="Freemat" />
-  <img width="38" height="38" src="./public/images/javascript.png" alt="Javascript" title="Javascript" />
-  <img width="38" height="38" src="./public/images/python.png" alt="Python" title="Python" />
-  <img width="38" height="38" src="./public/images/rust.png" alt="Rust" title="Rust" />
-  <img width="38" height="38" src="./public/images/typescript.png" alt="Typescript" title="Typescript" />
-  <img width="38" height="38" src="./public/images/terminal.png" alt="Terminal" title="Terminal" />
-  <img width="38" height="38" src="./public/images/html.png" alt="HTML" title="HTML" />
-  <img width="38" height="38" src="./public/images/css.png" alt="CSS" title="CSS" />
-  <img width="38" height="38" src="./public/images/sass.png" alt="Sass" title="Sass" />
-  <img width="38" height="38" src="./public/images/styled-components.png" alt="Styled Components" title="Styled Components" />
-  <img width="38" height="38" src="./public/images/django.png" alt="Django" title="Django" />
-  <img width="38" height="38" src="./public/images/expo.png" alt="Expo" title="Expo" />
-  <img width="38" height="38" src="./public/images/jupyter.svg" alt="Jupyter" title="Jupyter" />
-  <img width="38" height="38" src="./public/images/flutter.png" alt="Flutter" title="Flutter" />
-  <img width="38" height="38" src="./public/images/next.png" alt="Next.js" title="Next.js" />
-  <img width="38" height="38" src="./public/images/nodejs.png" alt="Node.js" title="Node.js" />
-  <img width="38" height="38" src="./public/images/opencv.png" alt="OpenCV" title="OpenCV" />
-  <img width="38" height="38" src="./public/images/qt.png" alt="Qt" title="Qt" />
-  <img width="38" height="38" src="./public/images/react.png" alt="React" title="React" />
-  <img width="38" height="38" src="./public/images/react-native.png" alt="React Native" title="React Native" />
-  <img width="60" height="38" src="./public/images/mongoose.png" alt="Mongoose" title="Mongoose" />
-  <img width="38" height="38" src="./public/images/sequelize.png" alt="Sequelize" title="Sequelize" />
-</p>
+<img width="38" height="38" src="./public/images/c.png" alt="C" title="C" />
+<img width="38" height="38" src="./public/images/c++.png" alt="C++" title="C++" />
+<img width="38" height="38"src="./public/images/csharp.png" alt="C#" title="C#" />
+<img width="38" height="38" src="./public/images/freemat.png" alt="Freemat" title="Freemat" />
+<img width="38" height="38" src="./public/images/javascript.png" alt="Javascript" title="Javascript" />
+<img width="38" height="38" src="./public/images/python.png" alt="Python" title="Python" />
+<img width="38" height="38" src="./public/images/rust.png" alt="Rust" title="Rust" />
+<img width="38" height="38" src="./public/images/typescript.png" alt="Typescript" title="Typescript" />
+<img width="38" height="38" src="./public/images/terminal.png" alt="Terminal" title="Terminal" />
+<img width="38" height="38" src="./public/images/html.png" alt="HTML" title="HTML" />
+<img width="38" height="38" src="./public/images/css.png" alt="CSS" title="CSS" />
+<img width="38" height="38" src="./public/images/sass.png" alt="Sass" title="Sass" />
+<img width="38" height="38" src="./public/images/styled-components.png" alt="Styled Components" title="Styled Components" />
+<img width="38" height="38" src="./public/images/django.png" alt="Django" title="Django" />
+<img width="38" height="38" src="./public/images/expo.png" alt="Expo" title="Expo" />
+<img width="38" height="38" src="./public/images/jupyter.svg" alt="Jupyter" title="Jupyter" />
+<img width="38" height="38" src="./public/images/flutter.png" alt="Flutter" title="Flutter" />
+<img width="38" height="38" src="./public/images/next.png" alt="Next.js" title="Next.js" />
+<img width="38" height="38" src="./public/images/nodejs.png" alt="Node.js" title="Node.js" />
+<img width="38" height="38" src="./public/images/opencv.png" alt="OpenCV" title="OpenCV" />
+<img width="38" height="38" src="./public/images/qt.png" alt="Qt" title="Qt" />
+<img width="38" height="38" src="./public/images/react.png" alt="React" title="React" />
+<img width="38" height="38" src="./public/images/react-native.png" alt="React Native" title="React Native" />
+<img width="60" height="38" src="./public/images/mongoose.png" alt="Mongoose" title="Mongoose" />
+<img width="38" height="38" src="./public/images/sequelize.png" alt="Sequelize" title="Sequelize" />
+
 
 ## Tools
-<p align="left">
-  <img width="38" height="38" src="./public/images/vscode.png" alt="Visual Studio Code" title="Visual Studio Code" />
-  <img width="38" height="38" src="./public/images/codeblocks.png" alt="Code::Blocks" title="Code::Blocks" />
-  <img width="38" height="38" src="./public/images/qtcreator.png" alt="QtCreator" title="QtCreator" />
-  <img width="38" height="38" src="./public/images/qtdesigner.png" alt="QtDesigner" title="QtDesigner" />
-  <img width="38" height="38" src="./public/images/insomnia.png" alt="Insomnia" title="Insomnia" />
-  <img width="38" height="38" src="./public/images/postman.png" alt="Postman" title="Postman" />
-  <img width="38" height="38" src="./public/images/autocad.png" alt="AutoCAD" title="AutoCAD" />
-  <img width="38" height="38" src="./public/images/sketchup.png" alt="SketchUp" title="SketchUp" />
-  <img width="38" height="38" src="./public/images/tinkercad.png" alt="Tinkercad" title="Tinkercad" />
-  <img width="38" height="38" src="./public/images/easyeda.png" alt="EasyEDA" title="EasyEDA" />
-  <img width="38" height="38" src="./public/images/multisim.png" alt="Multisim" title="Multisim" />
-  <img width="46" height="38" src="./public/images/proteus.png" alt="Proteus" title="Proteus" />
-  <img width="38" height="38" src="./public/images/quartusII.png" alt="QuartusII" title="QuartusII" />
-</p>
+<img width="38" height="38" src="./public/images/vscode.png" alt="Visual Studio Code" title="Visual Studio Code" />
+<img width="38" height="38" src="./public/images/codeblocks.png" alt="Code::Blocks" title="Code::Blocks" />
+<img width="38" height="38" src="./public/images/qtcreator.png" alt="QtCreator" title="QtCreator" />
+<img width="38" height="38" src="./public/images/qtdesigner.png" alt="QtDesigner" title="QtDesigner" />
+<img width="38" height="38" src="./public/images/insomnia.png" alt="Insomnia" title="Insomnia" />
+<img width="38" height="38" src="./public/images/postman.png" alt="Postman" title="Postman" />
+<img width="38" height="38" src="./public/images/notion.svg" alt="Notion" title="Notion" />
+<img width="38" height="38" src="./public/images/autocad.png" alt="AutoCAD" title="AutoCAD" />
+<img width="38" height="38" src="./public/images/sketchup.png" alt="SketchUp" title="SketchUp" />
+<img width="38" height="38" src="./public/images/tinkercad.png" alt="Tinkercad" title="Tinkercad" />
+<img width="38" height="38" src="./public/images/easyeda.png" alt="EasyEDA" title="EasyEDA" />
+<img width="38" height="38" src="./public/images/multisim.png" alt="Multisim" title="Multisim" />
+<img width="46" height="38" src="./public/images/proteus.png" alt="Proteus" title="Proteus" />
+<img width="38" height="38" src="./public/images/quartusII.png" alt="QuartusII" title="QuartusII" />
 
 ## Databases
-<p align="left">
-  <img width="38" height="38" src="./public/images/firebase.png" alt="Firebase" title="Firebase" />
-  <img width="38" height="38" src="./public/images/mongodb.png" alt="MongoDB" title="MongoDB" />
-  <img width="38" height="38" src="./public/images/mysql.png" alt="MySQL" title="MySQL" />
-  <img width="38" height="38" src="./public/images/sqlite.png" alt="SQLite" title="SQLite" />
-</p>
+<img width="38" height="38" src="./public/images/firebase.png" alt="Firebase" title="Firebase" />
+<img width="38" height="38" src="./public/images/mongodb.png" alt="MongoDB" title="MongoDB" />
+<img width="38" height="38" src="./public/images/mysql.png" alt="MySQL" title="MySQL" />
+<img width="38" height="38" src="./public/images/sqlite.png" alt="SQLite" title="SQLite" />
 
 ## DevOps
-<p align="left">
-  <img width="38" height="38" src="./public/images/git.png" alt="Git" title="Git" />
-  <img width="38" height="38" src="./public/images/azuredevops.png" alt="Azure DevOps" title="Azure DevOps" />
-  <img width="38" height="38" src="./public/images/github.png" alt="GitHub" title="GitHub"/>
-  <img width="38" height="38" src="./public/images/bitbucket.png" alt="Bitbucket" title="Bitbucket"/>
-</p>
+<img width="38" height="38" src="./public/images/git.png" alt="Git" title="Git" />
+<img width="38" height="38" src="./public/images/azuredevops.png" alt="Azure DevOps" title="Azure DevOps" />
+<img width="38" height="38" src="./public/images/github.png" alt="GitHub" title="GitHub"/>
+<img width="38" height="38" src="./public/images/bitbucket.png" alt="Bitbucket" title="Bitbucket"/>
 
 ## Prototype boards
-<p align="left">
-  <img width="38" height="38" src="./public/images/arduino.png" alt="Arduino" title="Arduino" />
-  <img width="38" height="38"src="./public/images/esp.png" alt="ESPs" title="ESPs" />
-  <img width="38" height="38" src="./public/images/raspberry.png" alt="Raspberry" title="Raspberry" />
-  <img width="38" height="38" src="./public/images/tiva.png" alt="Tiva" title="Tiva" />
-  <img width="80" height="38" src="./public/images/altera.png" alt="Altera" title="Altera FPGAs" />
-</p>
+<img width="38" height="38" src="./public/images/arduino.png" alt="Arduino" title="Arduino" />
+<img width="38" height="38"src="./public/images/esp.png" alt="ESPs" title="ESPs" />
+<img width="38" height="38" src="./public/images/raspberry.png" alt="Raspberry" title="Raspberry" />
+<img width="38" height="38" src="./public/images/tiva.png" alt="Tiva" title="Tiva" />
+<img width="80" height="38" src="./public/images/altera.png" alt="Altera" title="Altera FPGAs" />
