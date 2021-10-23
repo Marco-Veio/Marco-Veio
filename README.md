@@ -4,7 +4,7 @@
 - 💼 &nbsp; Working as **Full-Stack Developer** at [Alexandria]("https://alexandria.solar/")
 
 ## GitHub status
-![counter](https://enhb8joerk83ele.m.pipedream.net)
+![Marco-Veio's profile views](https://enhb8joerk83ele.m.pipedream.net)
 <p>
   <img height=190 src="https://github-readme-stats.vercel.app/api?username=marco-veio&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true&include_all_commits=true&count_private=true" alt="Marco-Veio's stats" />
   <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-veio&hide_border=true&layout=compact&langs_count=16&theme=tokyonight" alt="Marco-Veio's languages" />
@@ -36,7 +36,7 @@
 <p>
   <img width="38" height="38" src="./public/images/c.png" alt="C" title="C" />
   <img width="38" height="38" src="./public/images/c++.png" alt="C++" title="C++" />
-  <img width="38" height="38"src="./public/images/csharp.png" alt="C#" title="C#" />
+  <img width="38" height="38" src="./public/images/csharp.png" alt="C#" title="C#" />
   <img width="38" height="38" src="./public/images/freemat.png" alt="Freemat" title="Freemat" />
   <img width="38" height="38" src="./public/images/javascript.png" alt="Javascript" title="Javascript" />
   <img width="38" height="38" src="./public/images/python.png" alt="Python" title="Python" />
@@ -70,6 +70,8 @@
   <img width="38" height="38" src="./public/images/insomnia.png" alt="Insomnia" title="Insomnia" />
   <img width="38" height="38" src="./public/images/postman.png" alt="Postman" title="Postman" />
   <img width="38" height="38" src="./public/images/notion.svg" alt="Notion" title="Notion" />
+  <img width="38" height="38" src="./public/images/clickup.png" alt="ClickUp" title="ClickUp" />
+  <img width="38" height="38" src="./public/images/trello.svg" alt="Trello" title="Trello" />
   <img width="38" height="38" src="./public/images/autocad.png" alt="AutoCAD" title="AutoCAD" />
   <img width="38" height="38" src="./public/images/sketchup.png" alt="SketchUp" title="SketchUp" />
   <img width="38" height="38" src="./public/images/tinkercad.png" alt="Tinkercad" title="Tinkercad" />
@@ -98,7 +100,7 @@
 ## Prototype boards
 <p>
   <img width="38" height="38" src="./public/images/arduino.png" alt="Arduino" title="Arduino" />
-  <img width="38" height="38"src="./public/images/esp.png" alt="ESPs" title="ESPs" />
+  <img width="38" height="38" src="./public/images/esp.png" alt="ESPs" title="ESPs" />
   <img width="38" height="38" src="./public/images/raspberry.png" alt="Raspberry" title="Raspberry" />
   <img width="38" height="38" src="./public/images/tiva.png" alt="Tiva" title="Tiva" />
   <img width="80" height="38" src="./public/images/altera.png" alt="Altera" title="Altera FPGAs" />
