@@ -1,7 +1,11 @@
 # About me
+<a href="https://github.com/Marco-Veio">
+  <img src="https://img.shields.io/static/v1?label=Overview&message=Marco-Veio&logo=GitHub&color=1d7ecd" />
+</a>
+
 ## Work and academic life
 - 🎓 &nbsp; Graduated in **Electrical Engineering** from [Universidade Positivo](https://www.up.edu.br/)
-- 💼 &nbsp; Working as **Full-Stack Developer** at [Alexandria]("https://alexandria.solar/")
+- 💼 &nbsp; Working as **Full-Stack Developer** at [Alexandria](https://alexandria.solar/)
 
 ## GitHub status
 ![Marco-Veio's profile views](https://enhb8joerk83ele.m.pipedream.net)
@@ -104,4 +108,14 @@
   <img width="38" height="38" src="./public/images/raspberry.png" alt="Raspberry" title="Raspberry" />
   <img width="38" height="38" src="./public/images/tiva.png" alt="Tiva" title="Tiva" />
   <img width="80" height="38" src="./public/images/altera.png" alt="Altera" title="Altera FPGAs" />
+</p>
+
+<br />
+
+---
+# Already leaving?
+<p>
+  <img align="left" height=300 alt="GIF" src="public/gif/profile.gif"/>
+
+  &nbsp;&nbsp; ***Check out my [repositories](https://github.com/Marco-Veio?tab=repositories) first!***
 </p>
