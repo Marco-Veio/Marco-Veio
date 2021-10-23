@@ -1,7 +1,19 @@
 # About me
+
+<img height=200 align="right" alt="GIF" src="public/gif/profile.gif"/>
+<a href="https://github.com/Marco-Veio">
+  <img src="https://img.shields.io/static/v1?label=Overview&message=Marco-Veio&logo=GitHub&color=1d7ecd" />
+</a>
+
 ## Work and academic life
 - 🎓 &nbsp; Graduated in **Electrical Engineering** from [Universidade Positivo](https://www.up.edu.br/)
 - 💼 &nbsp; Working as **Full-Stack Developer** at [Alexandria]("https://alexandria.solar/")
+
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## GitHub status
 ![Marco-Veio's profile views](https://enhb8joerk83ele.m.pipedream.net)
