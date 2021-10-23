@@ -5,7 +5,7 @@
 
 ## Work and academic life
 - 🎓 &nbsp; Graduated in **Electrical Engineering** from [Universidade Positivo](https://www.up.edu.br/)
-- 💼 &nbsp; Working as **Full-Stack Developer** at [Alexandria]("https://alexandria.solar/")
+- 💼 &nbsp; Working as **Full-Stack Developer** at [Alexandria](https://alexandria.solar/)
 
 ## GitHub status
 ![Marco-Veio's profile views](https://enhb8joerk83ele.m.pipedream.net)
@@ -117,5 +117,5 @@
 <p>
   <img height=300 alt="GIF" src="public/gif/profile.gif"/>
   
-  Check out my [repositories]("http://https://github.com/Marco-Veio?tab=repositories") first!
+  Check out my [repositories](http://https://github.com/Marco-Veio?tab=repositories) first!
 </p>
