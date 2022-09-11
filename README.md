@@ -30,8 +30,8 @@
   <img height=25 src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/marco-aur%C3%A9lio-rehme-thomaz-243a2323b/" title="Outlook">
-  <img height=25 src="https://img.shields.io/badge/-Marco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-aur%C3%A9lio-rehme-thomaz-243a2323b/" />
+<a href="https://www.linkedin.com/in/marco-aur%C3%A9lio-rehme-thomaz-243a2323b/" title="LinkedIn">
+  <img height=25 src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-aur%C3%A9lio-rehme-thomaz-243a2323b/" />
 </a>
 &nbsp;
 
