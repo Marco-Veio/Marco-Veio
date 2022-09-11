@@ -30,6 +30,10 @@
   <img height=25 src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
 </a>
 &nbsp;
+<a href="https://www.linkedin.com/in/marco-aur%C3%A9lio-rehme-thomaz-243a2323b/" title="Outlook">
+  <img height=25 src="https://img.shields.io/badge/-Marco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-aur%C3%A9lio-rehme-thomaz-243a2323b/" />
+</a>
+&nbsp;
 
 <br />
 
@@ -53,6 +57,7 @@
   <img width="38" height="38" src="./public/images/styled-components.png" alt="Styled Components" title="Styled Components" />
   <img width="38" height="38" src="./public/images/django.png" alt="Django" title="Django" />
   <img width="38" height="38" src="./public/images/expo.png" alt="Expo" title="Expo" />
+  <img width="38" height="38" src="./public/images/flask.png" alt="Flask" title="Flask" />
   <img width="38" height="38" src="./public/images/jupyter.svg" alt="Jupyter" title="Jupyter" />
   <img width="38" height="38" src="./public/images/flutter.png" alt="Flutter" title="Flutter" />
   <img width="38" height="38" src="./public/images/next.png" alt="Next.js" title="Next.js" />
@@ -61,8 +66,7 @@
   <img width="38" height="38" src="./public/images/qt.png" alt="Qt" title="Qt" />
   <img width="38" height="38" src="./public/images/react.png" alt="React" title="React" />
   <img width="38" height="38" src="./public/images/react-native.png" alt="React Native" title="React Native" />
-  <img width="60" height="38" src="./public/images/mongoose.png" alt="Mongoose" title="Mongoose" />
-  <img width="38" height="38" src="./public/images/sequelize.png" alt="Sequelize" title="Sequelize" />
+  <img width="38" height="38" src="./public/images/jest.png" alt="Jest" title="Jest" />
 </p>
 
 ## Tools
@@ -73,7 +77,9 @@
   <img width="38" height="38" src="./public/images/qtdesigner.png" alt="QtDesigner" title="QtDesigner" />
   <img width="38" height="38" src="./public/images/insomnia.png" alt="Insomnia" title="Insomnia" />
   <img width="38" height="38" src="./public/images/postman.png" alt="Postman" title="Postman" />
+  <img width="38" height="38" src="./public/images/thunder-client.png" alt="Thunder Client" title="Thunder Client" />
   <img width="38" height="38" src="./public/images/notion.svg" alt="Notion" title="Notion" />
+  <img width="38" height="38" src="./public/images/figma.svg" alt="Figma" title="Figma" />
   <img width="38" height="38" src="./public/images/clickup.png" alt="ClickUp" title="ClickUp" />
   <img width="38" height="38" src="./public/images/trello.svg" alt="Trello" title="Trello" />
   <img width="38" height="38" src="./public/images/autocad.png" alt="AutoCAD" title="AutoCAD" />
@@ -90,7 +96,14 @@
   <img width="38" height="38" src="./public/images/firebase.png" alt="Firebase" title="Firebase" />
   <img width="38" height="38" src="./public/images/mongodb.png" alt="MongoDB" title="MongoDB" />
   <img width="38" height="38" src="./public/images/mysql.png" alt="MySQL" title="MySQL" />
+  <img width="38" height="38" src="./public/images/postgres.png" alt="Postgres" title="Postgres" />
   <img width="38" height="38" src="./public/images/sqlite.png" alt="SQLite" title="SQLite" />
+</p>
+
+## ORMs / ODMs
+<p>
+  <img width="60" height="38" src="./public/images/mongoose.png" alt="Mongoose" title="Mongoose" />
+  <img width="38" height="38" src="./public/images/sequelize.png" alt="Sequelize" title="Sequelize" />
 </p>
 
 ## DevOps
@@ -99,6 +112,18 @@
   <img width="38" height="38" src="./public/images/azuredevops.png" alt="Azure DevOps" title="Azure DevOps" />
   <img width="38" height="38" src="./public/images/github.png" alt="GitHub" title="GitHub"/>
   <img width="38" height="38" src="./public/images/bitbucket.png" alt="Bitbucket" title="Bitbucket"/>
+  <img width="38" height="38" src="./public/images/docker.png" alt="Docker" title="Docker" />
+</p>
+
+## Linters / Formatters
+<p>
+  <img width="38" height="38" src="./public/images/editor-config.png" alt="Editor Config" title="Editor Config" />
+  <img width="38" height="38" src="./public/images/eslint.png" alt="Eslint" title="Eslint" />
+  <img width="38" height="38" src="./public/images/prettier.png" alt="Prettier" title="Prettier" />
+  <img width="38" height="38" src="./public/images/python.png" alt="Pylance" title="Pylance" />
+  <img width="38" height="38" src="./public/images/python.png" alt="Autopep8" title="Autopep8" />
+  <img width="38" height="38" src="./public/images/python.png" alt="Black" title="Black" />
+  <img width="38" height="38" src="./public/images/python.png" alt="YAPF" title="YAPF" />
 </p>
 
 ## Prototype boards
