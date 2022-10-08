@@ -55,7 +55,9 @@
   <img width="38" height="38" src="./public/images/css.png" alt="CSS" title="CSS" />
   <img width="38" height="38" src="./public/images/sass.png" alt="Sass" title="Sass" />
   <img width="38" height="38" src="./public/images/styled-components.png" alt="Styled Components" title="Styled Components" />
+  <img width="38" height="38" src="./public/images/tailwind.png" alt="Tailwind" title="Tailwind">
   <img width="38" height="38" src="./public/images/django.png" alt="Django" title="Django" />
+  <img width="38" height="38" src="./public/images/electron.png" alt="Electron" title="Electron" />
   <img width="38" height="38" src="./public/images/expo.png" alt="Expo" title="Expo" />
   <img width="38" height="38" src="./public/images/flask.png" alt="Flask" title="Flask" />
   <img width="38" height="38" src="./public/images/jupyter.svg" alt="Jupyter" title="Jupyter" />
@@ -103,6 +105,7 @@
 ## ORMs / ODMs
 <p>
   <img width="60" height="38" src="./public/images/mongoose.png" alt="Mongoose" title="Mongoose" />
+  <img width="38" height="38" src="./public/images/prisma.png" alt="Prisma" title="Prisma">
   <img width="38" height="38" src="./public/images/sequelize.png" alt="Sequelize" title="Sequelize" />
 </p>
 
