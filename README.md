@@ -5,7 +5,7 @@
 
 ## Work and academic life
 - 🎓 &nbsp; Graduated in **Electrical Engineering** from [Universidade Positivo](https://www.up.edu.br/)
-- 💼 &nbsp; Working as **Full-Stack Developer** at [Alexandria](https://alexandria.solar/)
+- 💼 &nbsp; Working as **Mobile Developer** at Embarca
 
 ## GitHub status
 ![Marco-Veio's profile views](https://enhb8joerk83ele.m.pipedream.net)
