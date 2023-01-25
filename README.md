@@ -73,6 +73,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img width="38" height="38" src="./public/images/css.png" alt="CSS" title="CSS" />
   </a>
+  <a href="https://chakra-ui.com" target="_blank">
+    <img width="38" height="38" src="./public/images/chakraui.png" alt="ChakraUI" title="ChakraUI" />
+  </a>
   <a href="https://sass-lang.com" target="_blank">
     <img width="38" height="38" src="./public/images/sass.png" alt="Sass" title="Sass" />
   </a>
@@ -118,10 +121,17 @@
   <a href="https://reactnative.dev" target="_blank">
     <img width="38" height="38" src="./public/images/react-native.png" alt="React Native" title="React Native" />
   </a>
+</p>
+
+## Tests
+<p>
   <a href="https://jestjs.io" target="_blank">
     <img width="38" height="38" src="./public/images/jest.png" alt="Jest" title="Jest" />
   </a>
-</p>
+  <a href="https://callstack.github.io/react-native-testing-library/" target="_blank">
+    <img width="38" height="38" src="./public/images/reactnativetestinglibrary.png" alt="React Native Testing Library" title="React Native Testing Library" />
+  </a>
+</P>
 
 ## Tools
 <p>
