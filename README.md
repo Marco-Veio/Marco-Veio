@@ -76,6 +76,9 @@
   <a href="https://chakra-ui.com" target="_blank">
     <img width="38" height="38" src="./public/images/chakraui.png" alt="ChakraUI" title="ChakraUI" />
   </a>
+  <a href="https://nativebase.io" target="_blank">
+    <img width="38" height="38" src="./public/images/nativebase.svg.png" alt="NativeBase" title="NativeBase" />
+  </a>
   <a href="https://sass-lang.com" target="_blank">
     <img width="38" height="38" src="./public/images/sass.png" alt="Sass" title="Sass" />
   </a>
