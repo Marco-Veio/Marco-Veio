@@ -15,7 +15,9 @@
 </p>
 
 ## WakaTime status
-![Marco-Veio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcoveio&hide_border=true&layout=compact&theme=tokyonight)
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=marcoveio&hide_border=true&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=marcoveio&hide_border=true&layout=compact&theme=tokyonight" />
+</a>
 
 ## Contact
 <a href="https://github.com/Marco-Veio" title="GitHub">
