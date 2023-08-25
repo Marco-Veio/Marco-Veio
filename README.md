@@ -13,6 +13,9 @@
   <img height=190 src="https://github-readme-stats.vercel.app/api?username=marco-veio&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true&include_all_commits=true&count_private=true" alt="Marco-Veio's stats" />
   <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-veio&hide_border=true&layout=compact&langs_count=16&theme=tokyonight" alt="Marco-Veio's languages" />
 </p>
+<p>
+  <img height=190 src="https://github-profile-trophy.vercel.app?username=marco-veio&theme=tokyonight&no-frame=true&margin-w=4" alt="Marco-Veio's Github trophies" />
+</p>
 
 ## WakaTime status
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=marcoveio&hide_border=true&layout=compact&theme=tokyonight">
