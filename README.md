@@ -10,11 +10,14 @@
 ## GitHub status
 ![Marco-Veio's profile views](https://enhb8joerk83ele.m.pipedream.net)
 <p>
-  <img height=190 src="https://github-readme-stats.vercel.app/api?username=marco-veio&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true&include_all_commits=true&count_private=true" alt="Marco-Veio's stats" />
-  <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-veio&hide_border=true&layout=compact&langs_count=16&theme=tokyonight" alt="Marco-Veio's languages" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=marco-veio&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true&include_all_commits=true&count_private=true" alt="Marco-Veio's stats" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-veio&hide_border=true&layout=compact&langs_count=16&theme=tokyonight" alt="Marco-Veio's languages" />
 </p>
 <p>
-  <img height=190 src="https://github-profile-trophy.vercel.app?username=marco-veio&theme=tokyonight&no-frame=true&margin-w=4" alt="Marco-Veio's Github trophies" />
+  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=marco-veio&theme=tokyonight&hide_border=true" alt="Marco-Veio's streak" />
+</p>
+<p>
+  <img height="190" src="https://github-profile-trophy.vercel.app?username=marco-veio&theme=tokyonight&no-frame=true&margin-w=4" alt="Marco-Veio's Github trophies" />
 </p>
 
 ## WakaTime status
@@ -68,10 +71,12 @@
   <a href="https://www.rust-lang.org" target="_blank">
     <img width="38" height="38" src="./public/images/rust.png" alt="Rust" title="Rust" />
   </a>
+  <a href="https://www.shellscript.sh" target="_blank">
+    <img width="38" height="38" src="./public/images/shell.png" alt="Shell" title="Shell" />
+  </a>
   <a href="https://www.typescriptlang.org" target="_blank">
     <img width="38" height="38" src="./public/images/typescript.png" alt="Typescript" title="Typescript" />
   </a>
-  <img width="38" height="38" src="./public/images/terminal.png" alt="Terminal" title="Terminal" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img width="38" height="38" src="./public/images/html.png" alt="HTML" title="HTML" />
   </a>
@@ -111,6 +116,9 @@
   <a href="https://flutter.dev" target="_blank">
     <img width="38" height="38" src="./public/images/flutter.png" alt="Flutter" title="Flutter" />
   </a>
+  <a href="https://nestjs.com" target="_blank">
+    <img width="38" height="38" src="./public/images/next.png" alt="NestJS" title="NestJS" />
+  </a>
   <a href="https://nextjs.org" target="_blank">
     <img width="38" height="38" src="./public/images/next.png" alt="Next.js" title="Next.js" />
   </a>
@@ -129,6 +137,12 @@
   <a href="https://reactnative.dev" target="_blank">
     <img width="38" height="38" src="./public/images/react-native.png" alt="React Native" title="React Native" />
   </a>
+  <a href="https://kafka.apache.org" target="_blank">
+    <img width="38" height="38" src="./public/images/kafka.png" alt="Kafka" title="Kafka" />
+  </a>
+  <a href="https://kafka.apache.org" target="_blank">
+    <img width="38" height="38" src="./public/images/keycloak.svg" alt="Keycloak" title="Keycloak" />
+  </a>
 </p>
 
 ## Tests
@@ -141,7 +155,7 @@
   </a>
 </P>
 
-## Tools
+## Tools / IDEs
 <p>
   <a href="https://code.visualstudio.com" target="_blank">
     <img width="38" height="38" src="./public/images/vscode.png" alt="Visual Studio Code" title="Visual Studio Code" />
@@ -170,11 +184,17 @@
   <a href="https://www.figma.com" target="_blank">
     <img width="38" height="38" src="./public/images/figma.svg" alt="Figma" title="Figma" />
   </a>
+  <a href="https://app.asana.com" target="_blank">
+    <img width="38" height="38" src="./public/images/asana.svg" alt="Asana" title="Asana" />
+  </a>
   <a href="https://clickup.com" target="_blank">
     <img width="38" height="38" src="./public/images/clickup.png" alt="ClickUp" title="ClickUp" />
   </a>
   <a href="https://www.atlassian.com/br/software/jira" target="_blank">
     <img width="38" height="38" src="./public/images/jira.png" alt="Jira" title="Jira" />
+  </a>
+  <a href="https://monday.com" target="_blank">
+    <img width="38" height="38" src="./public/images/monday.png" alt="Monday" title="Monday" />
   </a>
   <a href="https://trello.com" target="_blank">
     <img width="38" height="38" src="./public/images/trello.svg" alt="Trello" title="Trello" />
@@ -248,8 +268,23 @@
   <a href="https://bitbucket.org/product/" target="_blank">
     <img width="38" height="38" src="./public/images/bitbucket.png" alt="Bitbucket" title="Bitbucket"/>
   </a>
+  <a 
+    href="https://vercel.com" target="_blank"
+  >
+    <img width="38" height="38" src="./public/images/vercel.svg"alt="Vercel" title="Vercel" />
+  </a>
   <a href="https://www.docker.com" target="_blank">
     <img width="38" height="38" src="./public/images/docker.png" alt="Docker" title="Docker" />
+  </a>
+</p>
+
+## Documentation
+<p>
+  <a href="https://storybook.js.org" target="_blank">
+    <img width="38" height="38" src="./public/images/storybook.svg" alt="Storybook" title="Storybook" />
+  </a>
+  <a href="https://swagger.io" target="_blank">
+    <img width="38" height="38" src="./public/images/swagger.png" alt="Swagger" title="Swagger" />
   </a>
 </p>
 
@@ -302,7 +337,7 @@
 ---
 # Already leaving?
 <p>
-  <img align="left" height=300 alt="GIF" src="public/gif/profile.gif"/>
+  <img align="left" height="300" alt="GIF" src="public/gif/profile.gif"/>
 
   &nbsp;&nbsp; ***Check out my [repositories](https://github.com/Marco-Veio?tab=repositories) first!***
 </p>
