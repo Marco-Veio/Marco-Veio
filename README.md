@@ -140,7 +140,7 @@
   <a href="https://kafka.apache.org" target="_blank">
     <img width="38" height="38" src="./public/images/kafka.png" alt="Kafka" title="Kafka" />
   </a>
-  <a href="https://kafka.apache.org" target="_blank">
+  <a href="https://www.keycloak.org" target="_blank">
     <img width="38" height="38" src="./public/images/keycloak.svg" alt="Keycloak" title="Keycloak" />
   </a>
 </p>
