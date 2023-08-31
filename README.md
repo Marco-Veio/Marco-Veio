@@ -117,7 +117,7 @@
     <img width="38" height="38" src="./public/images/flutter.png" alt="Flutter" title="Flutter" />
   </a>
   <a href="https://nestjs.com" target="_blank">
-    <img width="38" height="38" src="./public/images/next.png" alt="NestJS" title="NestJS" />
+    <img width="38" height="38" src="./public/images/nest.svg" alt="NestJS" title="NestJS" />
   </a>
   <a href="https://nextjs.org" target="_blank">
     <img width="38" height="38" src="./public/images/next.png" alt="Next.js" title="Next.js" />
