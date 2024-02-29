@@ -59,6 +59,9 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/">
     <img width="38" height="38" src="./public/images/csharp.png" alt="C#" title="C#" />
   </a>
+  <a href="https://fishshell.com" target="_blank">
+    <img width="38" height="38" src="./public/images/fish.png" alt="Fish" title="Fish" />
+  </a>
   <a href="https://freemat.sourceforge.net" target="_blank">
     <img width="38" height="38" src="./public/images/freemat.png" alt="Freemat" title="Freemat" />
   </a>
@@ -239,6 +242,9 @@
   <a href="https://www.sqlite.org/index.html" target="_blank">
     <img width="38" height="38" src="./public/images/sqlite.png" alt="SQLite" title="SQLite" />
   </a>
+  <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank">
+    <img width="38" height="38" src="./public/images/sqlserver.png" alt="SQLServer" title="SQLServer" />
+  </a>
 </p>
 
 ## ORMs / ODMs
@@ -259,6 +265,9 @@
   <a href="https://git-scm.com" target="_blank">
     <img width="38" height="38" src="./public/images/git.png" alt="Git" title="Git" />
   </a>
+  <a href="https://azure.microsoft.com/pt-br/" target="_blank">
+    <img width="38" height="38" src="./public/images/azure.png" alt="Azure" title="Azure" />
+  </a>
   <a href="https://azure.microsoft.com/pt-br/products/devops/" target="_blank">
     <img width="38" height="38" src="./public/images/azuredevops.png" alt="Azure DevOps" title="Azure DevOps" />
   </a>
@@ -271,7 +280,7 @@
   <a 
     href="https://vercel.com" target="_blank"
   >
-    <img width="38" height="38" src="./public/images/vercel.svg"alt="Vercel" title="Vercel" />
+    <img width="38" height="38" src="./public/images/vercel.svg" alt="Vercel" title="Vercel" />
   </a>
   <a href="https://www.docker.com" target="_blank">
     <img width="38" height="38" src="./public/images/docker.png" alt="Docker" title="Docker" />
@@ -299,14 +308,14 @@
   <a href="https://prettier.io" target="_blank">
     <img width="38" height="38" src="./public/images/prettier.png" alt="Prettier" title="Prettier" />
   </a>
-  <a href="https://pypi.org/project/pylance/" target="_blank">
-    <img width="38" height="38" src="./public/images/python.png" alt="Pylance" title="Pylance" />
-  </a>
   <a href="https://pypi.org/project/autopep8/" target="_blank">
     <img width="38" height="38" src="./public/images/python.png" alt="Autopep8" title="Autopep8" />
   </a>
   <a href="https://pypi.org/project/black/" target="_blank">
-    <img width="38" height="38" src="./public/images/python.png" alt="Black" title="Black" />
+    <img width="76" height="38" src="./public/images/black.png" alt="Black" title="Black" />
+  </a>
+  <a href="https://pypi.org/project/pylance/" target="_blank">
+    <img width="38" height="38" src="./public/images/python.png" alt="Pylance" title="Pylance" />
   </a>
   <a href="https://pypi.org/project/yapf/" target="_blank">
     <img width="38" height="38" src="./public/images/python.png" alt="YAPF" title="YAPF" />
