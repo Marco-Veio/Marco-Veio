@@ -21,9 +21,9 @@
 </p>
 
 ## WakaTime status
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=marcoveio&hide_border=true&layout=compact&theme=tokyonight">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=marcoveio&hide_border=true&layout=compact&theme=tokyonight" />
-</a>
+</p>
 
 ## Contact
 <a href="https://github.com/Marco-Veio" title="GitHub">
