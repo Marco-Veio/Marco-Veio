@@ -5,7 +5,7 @@
 
 ## Work and academic life
 - 🎓 &nbsp; Graduated in **Electrical Engineering** from [Universidade Positivo](https://www.up.edu.br/)
-- 💼 &nbsp; Working as **Full-Stack Developer** at [O&M Solar](https://oemsolar.com.br)
+- 💼 &nbsp; Working as **Frontend Developer** at [Mathex](https://mathex.com.br)
 
 ## GitHub status
 ![Marco-Veio's profile views](https://enhb8joerk83ele.m.pipedream.net)
